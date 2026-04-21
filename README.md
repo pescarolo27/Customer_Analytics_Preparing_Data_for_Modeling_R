@@ -7,7 +7,5 @@
 You've been given access to `customer_train.csv`, which is a subset of their entire customer dataset, so you can create a proof-of-concept of a much more efficient storage solution. The dataset contains anonymized student information, and whether they were looking for a new job or not during training. 
 The Head Data Scientist at Training Data Ltd. has asked you to create a data frame called `ds_jobs_clean` that stores the data in `customer_train.csv` much more efficiently.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project. 
+This project was done in January, 2025. Machine learning was not applied in this project. 
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
